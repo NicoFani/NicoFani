@@ -1,11 +1,11 @@
-### Hi 👋, I'm Nicolás Fani
+### <h1>Hi 👋, I'm Nicolás Fani</h1>
 <br>
 
 ![banner-github](https://github.com/NicoFani/NicoFani/assets/91576702/bf9a7706-dc36-4889-af5a-cc0fdba0ed4f)
 
 <br>
 
-### 🔎 About me 
+## 🔎 About me 
 
 - 💻 Front-End Developer.
 - 📚 Systems Engineering Student.
@@ -14,7 +14,7 @@
 - 🤝 I speak Spanish (native) and English (B2)
 <br>
 
-### 👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23ec6231"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23014ba0">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23f7df1e">
@@ -24,6 +24,6 @@
 
 <br>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicofani&show_icons=true&locale=en" alt="nicofani" /></p>
