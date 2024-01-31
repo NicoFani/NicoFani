@@ -1,7 +1,8 @@
 ### <h1>Hi 👋, I'm Nicolás Fani</h1>
 <br>
 
-![banner-github](https://github.com/NicoFani/NicoFani/assets/91576702/bf9a7706-dc36-4889-af5a-cc0fdba0ed4f)
+![banner-github](https://github.com/NicoFani/NicoFani/assets/91576702/26bf705f-f47c-4927-9d82-0858891c49aa)
+
 
 <br>
 
