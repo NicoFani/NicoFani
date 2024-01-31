@@ -11,6 +11,7 @@
 - 📚 Systems Engineering Student.
 - 💼 I’m currently working independently.
 - 🧭 I’m I currently learning Astro 4.0 to create attractive and powerful web pages for a better UX.
+- 🤝 I speak Spanish (native) and English (B2)
 <br>
 
 ### 👨‍💻 Tech Stack
@@ -20,6 +21,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23007acc">
 <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23c3002f">
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-%236cc24a">
+
+<br>
 
 ### 📊 GitHub Analytics
 
