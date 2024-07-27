@@ -9,10 +9,10 @@
 
 ## 🔎 About me 
 
-- 💻 Front-End Developer.
+- 💻 Full-Stack Developer.
 - 📚 Systems Engineering Student.
 - 💼 I’m currently working independently.
-- 🧭 I’m I currently learning Astro 4.0 to create attractive and powerful web pages for a better UX.
+- 🧭 I’m currently learning Astro 4.0 to create attractive and powerful web pages for a better UX.
 - 🤝 I speak Spanish (native) and English (B2)
 <br>
 
