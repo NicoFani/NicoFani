@@ -1,11 +1,4 @@
 ### <h1>Hi 👋, I'm Nicolás Fani</h1>
-<br>
-
-![banner-github](https://github.com/NicoFani/NicoFani/assets/91576702/dec3fe03-373a-462c-8c62-c38f3e372aef)
-
-
-
-<br>
 
 ## 🔎 About me 
 
